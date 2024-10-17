@@ -1,0 +1,121 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Data Analytics Business Proposal Development",
+    "section": "",
+    "text": "This workshop will focus on the essential components of a business proposal and provide a structured approach to crafting a compelling and well-organized document. A business proposal is a structured document designed to outline a solution to a client’s problem or fulfill a business opportunity. In the context of business, proposals serve as a critical tool for communicating ideas, offering value, and securing agreements or partnerships. They provide a detailed roadmap of what the business intends to accomplish, how it will be done, and why the proposed approach is beneficial to the client or stakeholder. Crafting an effective proposal is essential because it not only demonstrates an understanding of the client’s needs but also showcases the business’s ability to deliver tailored solutions, thus building trust and setting the foundation for future collaborations."
+  },
+  {
+    "objectID": "case_study1.html",
+    "href": "case_study1.html",
+    "title": "Analytics Platform",
+    "section": "",
+    "text": "As a consulting firm you have been asked to develop a data analytics platform for a medium sized business with 220+ employees. The organization would like the following capabilities within the platform:\n\nadvance analytics\nautomation\nbusiness intelligence\ndataops\ndata engineering\ndata management\nself-service\n\n\nThe organization’s data is mostly structured, with some unstructured data (json and xml). The data are available from a mixture of sources (database, files, and RESTful API). Currently the data sources are processed in batch at various frequencies (i.e. hourly, daily, monthly, etc.), however the organization would like to have the ability to perform real-time data processing. The data ranges in size, with the largest data having ~1 billion rows, and the smallest with ~1 thousand rows. The organization has 100 data sources categorized by importance as follows:\n\n10 critical\n20 high\n30 moderate\n40 low\n\nCompany has a small data team, consisting of two data analysts and one data scientist. There are 20-40 potential data users that have low data literacy who would access the data platform in some capacity.\n\nFollowing the information outlined in the deliverable section, develop a proposal to respond to the desired needs outlined above."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Personas",
+    "section": "",
+    "text": "The following are the members of the proposal development team.\n\n\nA Data Analyst is responsible for collecting, processing, and analyzing data to help organizations make informed decisions. They clean and organize data, perform statistical analyses, and create reports or visualizations to present insights. Data Analysts work closely with teams across the business to identify trends, patterns, and actionable insights that drive strategy and improve performance. Their role focuses on translating raw data into meaningful information to support decision-making and problem-solving.\n\n\n\nA Data Engineer is responsible for building and maintaining the infrastructure that enables efficient data collection, storage, and processing. They design, construct, and manage data pipelines, databases, and large-scale data architecture to ensure data flows smoothly and is accessible for analysis. Data Engineers collaborate with data analysts, data scientists, and other stakeholders to ensure that data is reliable, scalable, and optimized for performance. Their primary focus is on creating robust systems that allow organizations to collect, process, and store data for various business needs.\n\n\n\nA Product Designer is responsible for the overall look, feel, and user experience of a product. They take concepts from ideation to final design, focusing on creating user-centered designs that are intuitive and functional. Their responsibilities include conducting user research, creating wireframes and prototypes, and collaborating closely with developers to ensure the design vision is realized in the final product. Product Designers focus on solving user problems through thoughtful design while aligning with business goals and brand guidelines.\n\n\n\nA Product Owner (PO) is responsible for defining the product vision and maximizing its value by managing the product backlog. They prioritize features based on customer needs and business goals, ensuring the development team works on the most valuable items. The PO acts as the key liaison between stakeholders and the team, continuously refining requirements and aligning the product’s direction with user expectations. Their primary role is to make decisions on what to build next and why, ensuring the product evolves to meet both user needs and business objectives."
+  },
+  {
+    "objectID": "about.html#data-analyst",
+    "href": "about.html#data-analyst",
+    "title": "Personas",
+    "section": "",
+    "text": "A Data Analyst is responsible for collecting, processing, and analyzing data to help organizations make informed decisions. They clean and organize data, perform statistical analyses, and create reports or visualizations to present insights. Data Analysts work closely with teams across the business to identify trends, patterns, and actionable insights that drive strategy and improve performance. Their role focuses on translating raw data into meaningful information to support decision-making and problem-solving."
+  },
+  {
+    "objectID": "about.html#data-engineer",
+    "href": "about.html#data-engineer",
+    "title": "Personas",
+    "section": "",
+    "text": "A Data Engineer is responsible for building and maintaining the infrastructure that enables efficient data collection, storage, and processing. They design, construct, and manage data pipelines, databases, and large-scale data architecture to ensure data flows smoothly and is accessible for analysis. Data Engineers collaborate with data analysts, data scientists, and other stakeholders to ensure that data is reliable, scalable, and optimized for performance. Their primary focus is on creating robust systems that allow organizations to collect, process, and store data for various business needs."
+  },
+  {
+    "objectID": "about.html#product-designer",
+    "href": "about.html#product-designer",
+    "title": "Personas",
+    "section": "",
+    "text": "A Product Designer is responsible for the overall look, feel, and user experience of a product. They take concepts from ideation to final design, focusing on creating user-centered designs that are intuitive and functional. Their responsibilities include conducting user research, creating wireframes and prototypes, and collaborating closely with developers to ensure the design vision is realized in the final product. Product Designers focus on solving user problems through thoughtful design while aligning with business goals and brand guidelines."
+  },
+  {
+    "objectID": "about.html#product-owner",
+    "href": "about.html#product-owner",
+    "title": "Personas",
+    "section": "",
+    "text": "A Product Owner (PO) is responsible for defining the product vision and maximizing its value by managing the product backlog. They prioritize features based on customer needs and business goals, ensuring the development team works on the most valuable items. The PO acts as the key liaison between stakeholders and the team, continuously refining requirements and aligning the product’s direction with user expectations. Their primary role is to make decisions on what to build next and why, ensuring the product evolves to meet both user needs and business objectives."
+  },
+  {
+    "objectID": "about.html#ceo",
+    "href": "about.html#ceo",
+    "title": "Personas",
+    "section": "CEO",
+    "text": "CEO\nA CEO (Chief Executive Officer) is the highest-ranking executive in an organization, responsible for setting the company’s overall vision, strategy, and long-term goals. They oversee all key business operations, make high-level decisions, and ensure the organization meets its financial, operational, and growth objectives. The CEO works closely with senior leadership, stakeholders, and the board of directors to guide the company’s direction and manage its resources. Their role involves balancing innovation, leadership, and strategic oversight to ensure the organization’s success and sustainability."
+  },
+  {
+    "objectID": "about.html#client",
+    "href": "about.html#client",
+    "title": "Personas",
+    "section": "Client",
+    "text": "Client\nA Client is an individual or organization that purchases or uses services or products from another business. They provide requirements, expectations, and feedback to guide the development or delivery of the product or service. Clients play a critical role in defining the scope and success of a project by communicating their needs and goals. Their satisfaction is central to the business relationship, as they influence decision-making, drive demand, and often provide ongoing collaboration and feedback to ensure their needs are met."
+  },
+  {
+    "objectID": "about.html#consultant",
+    "href": "about.html#consultant",
+    "title": "Personas",
+    "section": "Consultant",
+    "text": "Consultant\nA Consultant is a professional who provides expert advice and specialized knowledge to organizations to help solve problems, improve performance, or achieve specific goals. They analyze the client’s needs, offer insights, and develop strategies or solutions tailored to the organization’s challenges. Consultants often work on a project basis, collaborating with clients to implement recommendations and drive change. Their role involves delivering objective advice, bringing industry expertise, and helping businesses optimize operations or make informed decisions."
+  },
+  {
+    "objectID": "deliverables.html",
+    "href": "deliverables.html",
+    "title": "Deliverables",
+    "section": "",
+    "text": "During the proposal development each team is to schedule a ten minute session with the CEO and Client to discuss or get guidance. Teams can additionally schedule time with a Consultant to ask questions, get direction, etc."
+  },
+  {
+    "objectID": "deliverables.html#executive-statement",
+    "href": "deliverables.html#executive-statement",
+    "title": "Deliverables",
+    "section": "Executive Statement",
+    "text": "Executive Statement\nAn executive summary provides a high-level overview of your business proposal, highlighting the problem the client faces and your proposed solution. It briefly outlines the benefits of your approach, emphasizing how it meets the client’s needs efficiently and delivers value. This section is designed to capture attention and encourage further reading by showcasing the key points of your proposal."
+  },
+  {
+    "objectID": "deliverables.html#solution",
+    "href": "deliverables.html#solution",
+    "title": "Deliverables",
+    "section": "Solution",
+    "text": "Solution\nThe proposed solution outlines a tailored strategy to address the client’s specific challenges, offering a clear path to achieving their goals. It details the services or products provided, along with the key steps and methodologies that will ensure successful implementation and measurable results.\n\n\nData\nData serves as a critical asset in any solution, acting as the raw material for generating insights, guiding decision-making, and optimizing processes. The role of data is to reduce uncertainty, improve accuracy, and allow for predictive capabilities that drive strategic outcomes.\n\n\nHardware\nHardware encompasses the physical infrastructure, such as servers, computers, and networking equipment, that supports the execution of the solution. Reliable hardware ensures the solution operates smoothly, minimizing downtime and enhancing system efficiency.\n\n\nHuman Resources\nHuman resources are key to the success of the solution, as they bring the necessary expertise, project management, and operational support. This team ensures proper execution, monitors progress, and adapts to challenges throughout the project lifecycle.\n\n\nSoftware\nSoftware forms the backbone of the solution, providing the platforms, tools, and applications needed to automate processes, analyze data, and facilitate communication. Robust software integration ensures that all components work together seamlessly, driving efficiency and scalability."
+  },
+  {
+    "objectID": "deliverables.html#roadmap",
+    "href": "deliverables.html#roadmap",
+    "title": "Deliverables",
+    "section": "Roadmap",
+    "text": "Roadmap\nA product roadmap is a strategic plan that outlines the vision, direction, and development timeline for a product over a specific period. It details key milestones, features, and goals, helping teams prioritize tasks and align with the overall business objectives. The roadmap provides a clear timeline for product releases, enabling stakeholders to track progress and stay informed about upcoming changes and enhancements."
+  },
+  {
+    "objectID": "deliverables.html#pricing",
+    "href": "deliverables.html#pricing",
+    "title": "Deliverables",
+    "section": "Pricing",
+    "text": "Pricing\nPricing reflects the cost structure of the proposed solution, detailing the fees associated with delivering products or services. It includes a breakdown of the total cost, outlining specific charges for each component, such as materials, labor, or ongoing support. Transparent pricing helps the client understand the value they are receiving and may also include payment terms, discounts, or financing options to accommodate different budget needs.\nA pricing sheet is to be provided that breaks down each component of the proposal. The following is the level of detail required for each component.\nData: The type, description, and cost for each dataset needed to deliver the solution\nHardware: The price, specifications, and quantity of all hardware infrastructure needed to deliver the solution (note this includes on-premise and cloud infrastructure)\nHuman resources: The rate and expected hours for each role needed to deliver the solution\nSoftware: The name, price, and number of licenses for each software applications needed to deliver the solution\nNOTE: The use of Consultant time during the proposal development period must be reflected in the pricing sheet at a rate of $500/hr (each minute used during the workshop represents an hour of time)"
+  },
+  {
+    "objectID": "deliverables.html#final-presentation",
+    "href": "deliverables.html#final-presentation",
+    "title": "Deliverables",
+    "section": "Final Presentation",
+    "text": "Final Presentation\nEach team will deliver a ten minute presentation outlining their proposal submission."
+  },
+  {
+    "objectID": "case_study2.html",
+    "href": "case_study2.html",
+    "title": "Product Development",
+    "section": "",
+    "text": "As a consulting firm you have been asked to develop a data analytics application for a medium sized business with 220+ employees. The organization would like the following capabilities within the application:\nFollowing the information outlined in the deliverable section, develop a proposal to respond to the desired needs outlined above."
+  }
+]

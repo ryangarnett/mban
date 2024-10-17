@@ -1,0 +1,33 @@
+---
+title: "Analytics Platform"
+page-layout: full
+---
+
+As a consulting firm you have been asked to develop a data analytics platform for a medium sized business with 220+ employees. The organization would like the following capabilities within the platform:
+
+- advance analytics
+- automation
+- business intelligence
+- dataops
+- data engineering
+- data management
+- self-service
+
+<br>
+
+The organization's data is mostly structured, with some unstructured data (json and xml). The data are available from a mixture of sources (database, files, and RESTful API). Currently the data sources are processed in batch at various frequencies (i.e. hourly, daily, monthly, etc.), however the organization would like to have the ability to perform real-time data processing. The data ranges in size, with the largest data having ~1 billion rows, and the smallest with ~1 thousand rows. The organization has 100 data sources categorized by importance as follows:
+
+- 10 critical
+- 20 high
+- 30 moderate
+- 40 low
+
+  
+Company has a small data team, consisting of two data analysts and one data scientist. There are 20-40 potential data users that have low data literacy who would access the data platform in some capacity.
+
+
+<br>
+
+Following the information outlined in the deliverable section, develop a proposal to respond to the desired needs outlined above.
+
+

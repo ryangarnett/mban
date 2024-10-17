@@ -1,0 +1,12 @@
+---
+title: "Product Development"
+page-layout: full
+---
+
+As a consulting firm you have been asked to develop a data analytics application for a medium sized business with 220+ employees. The organization would like the following capabilities within the application:
+
+
+
+
+
+Following the information outlined in the deliverable section, develop a proposal to respond to the desired needs outlined above.

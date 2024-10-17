@@ -1,0 +1,31 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "MBAN Workshop"
+  navbar:
+    pinned: true
+    right:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: Personas
+      - href: deliverables.qmd
+        text: Deliverables
+      - href: case_study1.qmd
+        text: Option 1
+      - href: case_study2.qmd
+        text: Option 2
+
+
+format:
+  html:
+    theme: style.scss
+    toc: true
+    code-fold: false
+    link-external-icon: true
+    link-external-newwindow: true
+    code-block-border-left: "#00A8D5"
+
+editor: visual

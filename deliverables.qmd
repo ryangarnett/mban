@@ -1,0 +1,76 @@
+---
+title: "Deliverables"
+page-layout: full
+---
+
+
+# Consultation and Guidance
+During the proposal development each team is to schedule a ten minute session with the CEO and Client to discuss or get guidance. Teams can additionally schedule time with a Consultant to ask questions, get direction, etc.
+
+<br>
+
+# Proposal
+A proposal is a formal document that presents a solution to a specific problem or need, aiming to persuade the recipient to approve or adopt the suggested approach. It outlines the key components such as the problem, proposed solution, methodology, pricing, and benefits, providing a clear and structured plan of action. A well-crafted proposal demonstrates the proposer’s understanding of the client’s needs and highlights how the solution delivers value, ultimately serving as a tool for securing buy-in or agreement. The deliverable is to include the following elements:
+
+- proposal
+  - Executive statement
+  - Solution
+    - Data
+    - Hardware
+    - Human resources
+    - Software
+  - Roadmap
+  - Pricing
+
+<br>
+  
+## Executive Statement
+An executive summary provides a high-level overview of your business proposal, highlighting the problem the client faces and your proposed solution. It briefly outlines the benefits of your approach, emphasizing how it meets the client’s needs efficiently and delivers value. This section is designed to capture attention and encourage further reading by showcasing the key points of your proposal.
+
+<br>
+
+## Solution
+The proposed solution outlines a tailored strategy to address the client’s specific challenges, offering a clear path to achieving their goals. It details the services or products provided, along with the key steps and methodologies that will ensure successful implementation and measurable results.
+
+<br>
+
+### Data
+Data serves as a critical asset in any solution, acting as the raw material for generating insights, guiding decision-making, and optimizing processes. The role of data is to reduce uncertainty, improve accuracy, and allow for predictive capabilities that drive strategic outcomes.
+
+### Hardware
+Hardware encompasses the physical infrastructure, such as servers, computers, and networking equipment, that supports the execution of the solution. Reliable hardware ensures the solution operates smoothly, minimizing downtime and enhancing system efficiency.
+
+### Human Resources
+Human resources are key to the success of the solution, as they bring the necessary expertise, project management, and operational support. This team ensures proper execution, monitors progress, and adapts to challenges throughout the project lifecycle.
+
+### Software
+Software forms the backbone of the solution, providing the platforms, tools, and applications needed to automate processes, analyze data, and facilitate communication. Robust software integration ensures that all components work together seamlessly, driving efficiency and scalability.
+
+<br>
+
+## Roadmap
+A product roadmap is a strategic plan that outlines the vision, direction, and development timeline for a product over a specific period. It details key milestones, features, and goals, helping teams prioritize tasks and align with the overall business objectives. The roadmap provides a clear timeline for product releases, enabling stakeholders to track progress and stay informed about upcoming changes and enhancements.
+
+<br>
+
+## Pricing
+Pricing reflects the cost structure of the proposed solution, detailing the fees associated with delivering products or services. It includes a breakdown of the total cost, outlining specific charges for each component, such as materials, labor, or ongoing support. Transparent pricing helps the client understand the value they are receiving and may also include payment terms, discounts, or financing options to accommodate different budget needs.
+
+A pricing sheet is to be provided that breaks down each component of the proposal. The following is the level of detail required for each component.
+
+**Data:** The type, description, and cost for each dataset needed to deliver the solution
+
+**Hardware:** The price, specifications, and quantity of all hardware infrastructure needed to deliver the solution (note this includes on-premise and cloud infrastructure)
+
+**Human resources:** The rate and expected hours for each role needed to deliver the solution
+
+**Software:** The name, price, and number of licenses for each software applications needed to deliver the solution
+
+*NOTE:* The use of Consultant time during the proposal development period must be reflected in the pricing sheet at a rate of $500/hr (each minute used during the workshop represents an hour of time)
+
+
+<br>
+
+## Final Presentation
+Each team will deliver a ten minute presentation outlining their proposal submission.
+

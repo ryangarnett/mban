@@ -1,0 +1,38 @@
+---
+title: "Personas"
+page-layout: full
+---
+
+# The Team
+The following are the members of the proposal development team.
+
+## Data Analyst
+A Data Analyst is responsible for collecting, processing, and analyzing data to help organizations make informed decisions. They clean and organize data, perform statistical analyses, and create reports or visualizations to present insights. Data Analysts work closely with teams across the business to identify trends, patterns, and actionable insights that drive strategy and improve performance. Their role focuses on translating raw data into meaningful information to support decision-making and problem-solving.
+
+
+## Data Engineer
+A Data Engineer is responsible for building and maintaining the infrastructure that enables efficient data collection, storage, and processing. They design, construct, and manage data pipelines, databases, and large-scale data architecture to ensure data flows smoothly and is accessible for analysis. Data Engineers collaborate with data analysts, data scientists, and other stakeholders to ensure that data is reliable, scalable, and optimized for performance. Their primary focus is on creating robust systems that allow organizations to collect, process, and store data for various business needs.
+
+
+## Product Designer
+A Product Designer is responsible for the overall look, feel, and user experience of a product. They take concepts from ideation to final design, focusing on creating user-centered designs that are intuitive and functional. Their responsibilities include conducting user research, creating wireframes and prototypes, and collaborating closely with developers to ensure the design vision is realized in the final product. Product Designers focus on solving user problems through thoughtful design while aligning with business goals and brand guidelines.
+
+
+## Product Owner
+A Product Owner (PO) is responsible for defining the product vision and maximizing its value by managing the product backlog. They prioritize features based on customer needs and business goals, ensuring the development team works on the most valuable items. The PO acts as the key liaison between stakeholders and the team, continuously refining requirements and aligning the product's direction with user expectations. Their primary role is to make decisions on what to build next and why, ensuring the product evolves to meet both user needs and business objectives.
+
+
+# Available Resources
+During the proposal development process the following resources are available for consultation and guidance.
+
+## CEO
+A CEO (Chief Executive Officer) is the highest-ranking executive in an organization, responsible for setting the company’s overall vision, strategy, and long-term goals. They oversee all key business operations, make high-level decisions, and ensure the organization meets its financial, operational, and growth objectives. The CEO works closely with senior leadership, stakeholders, and the board of directors to guide the company’s direction and manage its resources. Their role involves balancing innovation, leadership, and strategic oversight to ensure the organization’s success and sustainability.
+
+
+## Client
+A Client is an individual or organization that purchases or uses services or products from another business. They provide requirements, expectations, and feedback to guide the development or delivery of the product or service. Clients play a critical role in defining the scope and success of a project by communicating their needs and goals. Their satisfaction is central to the business relationship, as they influence decision-making, drive demand, and often provide ongoing collaboration and feedback to ensure their needs are met.
+
+
+## Consultant
+A Consultant is a professional who provides expert advice and specialized knowledge to organizations to help solve problems, improve performance, or achieve specific goals. They analyze the client’s needs, offer insights, and develop strategies or solutions tailored to the organization’s challenges. Consultants often work on a project basis, collaborating with clients to implement recommendations and drive change. Their role involves delivering objective advice, bringing industry expertise, and helping businesses optimize operations or make informed decisions.
+
