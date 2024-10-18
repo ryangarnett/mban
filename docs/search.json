@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "case_study2.html",
+    "href": "case_study2.html",
+    "title": "Product Development",
+    "section": "",
+    "text": "As a consulting firm you have been asked to develop a data analytics application for a medium sized airport. The organization would like the following capabilities within the application:\n\nanalytics\n\ndescriptive\npredictive\n\ndata metrics\ndata visualizations\ndual options\n\nactive interaction\npassive interaction\n\nnavigation / routing\nnotifications\nupdates\n\nflight schedule\nparking availability\nsecurity wait times\ntraffic\n\n\n\nThe data available is from a mixture of sources (database, RESTful API, and XML endpoints). Data update frequency is to be no longer than five minutes, with some to be near real-time (sub minute). The target audience for the product are departing passengers, which should be available via a web app, with a desire for a mobile app.\nFollowing the information outlined in the deliverable section, develop a proposal to respond to the desired needs outlined above."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Data Analytics Business Proposal Development",
@@ -63,6 +70,13 @@
     "text": "Consultant\nA Consultant is a professional who provides expert advice and specialized knowledge to organizations to help solve problems, improve performance, or achieve specific goals. They analyze the client’s needs, offer insights, and develop strategies or solutions tailored to the organization’s challenges. Consultants often work on a project basis, collaborating with clients to implement recommendations and drive change. Their role involves delivering objective advice, bringing industry expertise, and helping businesses optimize operations or make informed decisions."
   },
   {
+    "objectID": "case_study1.html",
+    "href": "case_study1.html",
+    "title": "Analytics Platform",
+    "section": "",
+    "text": "As a consulting firm you have been asked to develop a data analytics platform for a medium sized business with 220+ employees. The organization would like the following capabilities within the platform:\n\nadvance analytics\nautomation\nbusiness intelligence\ndataops\ndata engineering\ndata management\nself-service\n\n\nThe organization’s data is mostly structured, with some unstructured data (json and xml). The data are available from a mixture of sources (database, files, and RESTful API). Currently the data sources are processed in batch at various frequencies (i.e. hourly, daily, monthly, etc.), however the organization would like to have the ability to perform real-time data processing. The data ranges in size, with the largest data having ~1 billion rows, and the smallest with ~1 thousand rows. The organization has 100 data sources categorized by importance as follows:\n\n10 critical\n20 high\n30 moderate\n40 low\n\nCompany has a small data team, consisting of two data analysts and one data scientist. There are 20-40 potential data users that have low data literacy who would access the data platform in some capacity.\n\nFollowing the information outlined in the deliverable section, develop a proposal to respond to the desired needs outlined above."
+  },
+  {
     "objectID": "deliverables.html",
     "href": "deliverables.html",
     "title": "Deliverables",
@@ -103,19 +117,5 @@
     "title": "Deliverables",
     "section": "Final Presentation",
     "text": "Final Presentation\nEach team will deliver a ten minute presentation outlining their proposal submission."
-  },
-  {
-    "objectID": "case_study1.html",
-    "href": "case_study1.html",
-    "title": "Analytics Platform",
-    "section": "",
-    "text": "As a consulting firm you have been asked to develop a data analytics platform for a medium sized business with 220+ employees. The organization would like the following capabilities within the platform:\n\nadvance analytics\nautomation\nbusiness intelligence\ndataops\ndata engineering\ndata management\nself-service\n\n\nThe organization’s data is mostly structured, with some unstructured data (json and xml). The data are available from a mixture of sources (database, files, and RESTful API). Currently the data sources are processed in batch at various frequencies (i.e. hourly, daily, monthly, etc.), however the organization would like to have the ability to perform real-time data processing. The data ranges in size, with the largest data having ~1 billion rows, and the smallest with ~1 thousand rows. The organization has 100 data sources categorized by importance as follows:\n\n10 critical\n20 high\n30 moderate\n40 low\n\nCompany has a small data team, consisting of two data analysts and one data scientist. There are 20-40 potential data users that have low data literacy who would access the data platform in some capacity.\n\nFollowing the information outlined in the deliverable section, develop a proposal to respond to the desired needs outlined above."
-  },
-  {
-    "objectID": "case_study2.html",
-    "href": "case_study2.html",
-    "title": "Product Development",
-    "section": "",
-    "text": "As a consulting firm you have been asked to develop a data analytics application for a medium sized business with 220+ employees. The organization would like the following capabilities within the application:\nFollowing the information outlined in the deliverable section, develop a proposal to respond to the desired needs outlined above."
   }
 ]
